@@ -1,24 +1,150 @@
-## Gitblog
-My personal blog using issues and GitHub Actions (随意转载，无需署名)
+## [Gitblog](https://yihong0618.github.io/gitblog/)
+My personal blog([About Me](https://github.com/yihong0618/gitblog/issues/282)) using issues and GitHub Actions (随意转载，无需署名)
+![image](https://github.com/user-attachments/assets/a168bf11-661e-4566-b042-7fc9544de528)
 [RSS Feed](https://raw.githubusercontent.com/yihong0618/gitblog/master/feed.xml)
-## 友情链接
-| Name | Link | Desc | 
- | ---- | ---- | ---- |
-| 兔子鮮笙 | https://tuzi.moe | 20 岁的天才少年 |
-| FriendsA | https://blog.duanfei.org/ | 友人A |
-| daya0576 | https://changchen.me/ | 喜欢 python 的大牙 |
-| kenlai | https://kenlai.me/ | 网络前辈 |
-| Frost Ming | https://frostming.com/ | 醉后不知天在水，满船清梦压星河 |
-| ChrAlpha | https://ichr.me/ | 你唯有拼尽全力，才能显得毫不费力 |
-| 古思为 | https://siwei.io/ | I build things with magic and scale the magic to help people. |
-| 二愣的闲谈杂鱼 | https://godruoyi.com | 生活总是这样，不能让人处处都满意，但我们还要热情地生活下去。 |
-| 彭宏豪的个人博客 | https://penghh.fun | 我的 Hexo 博客，分享一些软件或电脑的使用技巧 |
-| Yu Jinyan | https://blog.yujinyan.me/ | Web, JVM, Android. Kotlin enthusiast. |
-| Leeyom's Blog | https://blog.leeyom.top | 用于记录一些幼稚的想法和脑残的瞬间 |
-| chaomai's blog | https://chaomai.github.io/ | A repository for the things I’ve learnt, built, and wasted time on. |
-| linw1995's blog | https://linw1995.com/ | 三分热度三分收获 |
-| 蒋继发 (Thaddeus Jiang) | https://thaddeusjiang.com/welcome.html | 在日本开发 SaaS 产品，Love OSS |
+
+## [友情链接](https://github.com/yihong0618/gitblog/issues/217)
+<details><summary>显示</summary>
+<table>
+<thead>
+<tr>
+<th>Name</th>
+<th>Link</th>
+<th>Desc</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>兔子鮮笙</td>
+<td>https://tuzi.moe</td>
+<td>天才少年</td>
+</tr>
+<tr>
+<td>FriendsA</td>
+<td>https://blog.duanfei.org/</td>
+<td>友人A</td>
+</tr>
+<tr>
+<td>daya0576</td>
+<td>https://changchen.me/</td>
+<td>喜欢 python 的大牙</td>
+</tr>
+<tr>
+<td>kenlai</td>
+<td>https://kenlai.me/</td>
+<td>网络前辈</td>
+</tr>
+<tr>
+<td>Frost Ming</td>
+<td>https://frostming.com/</td>
+<td>醉后不知天在水，满船清梦压星河</td>
+</tr>
+<tr>
+<td>ChrAlpha</td>
+<td>https://ichr.me/</td>
+<td>你唯有拼尽全力，才能显得毫不费力</td>
+</tr>
+<tr>
+<td>古思为</td>
+<td>https://siwei.io/</td>
+<td>I build things with magic and scale the magic to help people.</td>
+</tr>
+<tr>
+<td>二愣的闲谈杂鱼</td>
+<td>https://godruoyi.com</td>
+<td>生活总是这样，不能让人处处都满意，但我们还要热情地生活下去。</td>
+</tr>
+<tr>
+<td>彭宏豪的个人博客</td>
+<td>https://penghh.fun</td>
+<td>我的 Hexo 博客，分享一些软件或电脑的使用技巧</td>
+</tr>
+<tr>
+<td>Yu Jinyan</td>
+<td>https://blog.yujinyan.me/</td>
+<td>Web, JVM, Android. Kotlin enthusiast.</td>
+</tr>
+<tr>
+<td>Leeyom's Blog</td>
+<td>https://blog.leeyom.top</td>
+<td>用于记录一些幼稚的想法和脑残的瞬间</td>
+</tr>
+<tr>
+<td>chaomai's blog</td>
+<td>https://chaomai.github.io/</td>
+<td>A repository for the things I’ve learnt, built, and wasted time on.</td>
+</tr>
+<tr>
+<td>linw1995's blog</td>
+<td>https://linw1995.com/</td>
+<td>三分热度三分收获</td>
+</tr>
+<tr>
+<td>蒋继发 (Thaddeus Jiang)</td>
+<td>https://thaddeusjiang.com/welcome.html</td>
+<td>在日本开发 SaaS 产品，Love OSS</td>
+</tr>
+<tr>
+<td>Yisheng's blog</td>
+<td>https://yishenggong.com/</td>
+<td>把一些从未有过的故事带到这个世界上</td>
+</tr>
+<tr>
+<td>卡瓦邦噶</td>
+<td>https://www.kawabangga.com/</td>
+<td>一个叫赖信涛的男人</td>
+</tr>
+<tr>
+<td>猫四叔</td>
+<td>https://yuanj.top/</td>
+<td>记录生信小白的学习之路</td>
+</tr>
+<tr>
+<td>Nomango's Blog</td>
+<td>https://nomango.dev/</td>
+<td>值得去的地方都没有捷径</td>
+</tr>
+<tr>
+<td>scond的博客</td>
+<td>https://helloo2020.github.io</td>
+<td>一个读书，跑步，旅行的人</td>
+</tr>
+<tr>
+<td>tianheg</td>
+<td>https://tianheg.co</td>
+<td>了解自己，认识世界 Knowing oneself, grasp the world</td>
+</tr>
+<tr>
+<td>higuoxing</td>
+<td>https://higuoxing.com</td>
+<td>@higuoxing's site</td>
+</tr>
+<tr>
+<td>zhiqli</td>
+<td>https://zhiqli.github.io/</td>
+<td>热爱做饭、阅读和足球的中年程序员。</td>
+</tr>
+<tr>
+<td>游山打猎</td>
+<td>https://horse.im</td>
+<td>每个人都闪耀独特光芒</td>
+</tr>
+<tr>
+<td>我真的没有拼多多</td>
+<td>https://github.com/QiYongchuan/MyGitBlog</td>
+<td>从抓虫的农学生到抓虫子的程序员的故事。</td>
+</tr>
+</tbody>
+</table></details>
+
+
 ## 置顶文章
+- [2020-2024 最喜欢的 10 篇文章和一张图](https://github.com/yihong0618/gitblog/issues/302)--2024-12-24
+- [从给 RisingWave 提 PR 说起，聊聊怎么快速切入一个复杂的开源项目](https://github.com/yihong0618/gitblog/issues/296)--2024-10-11
+- [跑了 10000km 花了 13 年](https://github.com/yihong0618/gitblog/issues/289)--2024-05-31
+- [开源四年的一些记录](https://github.com/yihong0618/gitblog/issues/259)--2023-03-21
+- [不用 root 使用小爱同学和 ChatGPT 交互折腾记](https://github.com/yihong0618/gitblog/issues/258)--2023-02-16
+- [用 eBPF trace PostgreSQL 的几种姿势](https://github.com/yihong0618/gitblog/issues/257)--2023-01-28
 - [今天的跑步电台](https://github.com/yihong0618/gitblog/issues/239)--2022-07-18
 - [经历了人生体验最棒的一次面试](https://github.com/yihong0618/gitblog/issues/228)--2021-12-06
 - [参加了《开源面对面》《ByteTalk》《枫言枫语》播客的一些记录](https://github.com/yihong0618/gitblog/issues/223)--2021-11-26
@@ -34,11 +160,11 @@ My personal blog using issues and GitHub Actions (随意转载，无需署名)
 - [这个博客开源了](https://github.com/yihong0618/gitblog/issues/177)--2020-08-20
 - [vscode-gcores开发笔记1](https://github.com/yihong0618/gitblog/issues/102)--2020-01-19
 ## 最近更新
-- [利用 GitHubPoster 和 GitHub Actions 备份任意用户推特](https://github.com/yihong0618/gitblog/issues/252)--2022-11-19
-- [一杯敬月光](https://github.com/yihong0618/gitblog/issues/251)--2022-11-18
-- [如果判断一个数字帐号来自中国大陆](https://github.com/yihong0618/gitblog/issues/248)--2022-10-25
-- [Random Thoughts](https://github.com/yihong0618/gitblog/issues/242)--2022-08-31
-- [反思](https://github.com/yihong0618/gitblog/issues/241)--2022-08-10
+- [最近给开源项目贡献的记录](https://github.com/yihong0618/gitblog/issues/304)--2025-01-27
+- [2020-2024 最喜欢的 10 篇文章和一张图](https://github.com/yihong0618/gitblog/issues/302)--2024-12-24
+- [断章](https://github.com/yihong0618/gitblog/issues/301)--2024-12-01
+- [这两个月](https://github.com/yihong0618/gitblog/issues/299)--2024-11-05
+- [从给 RisingWave 提 PR 说起，聊聊怎么快速切入一个复杂的开源项目](https://github.com/yihong0618/gitblog/issues/296)--2024-10-11
 ## 2019
 - [2019最后一天，不是总结的总结](https://github.com/yihong0618/gitblog/issues/97)--2019-12-31
 - [2019年11月总结及12月计划](https://github.com/yihong0618/gitblog/issues/85)--2019-12-02
@@ -53,6 +179,7 @@ My personal blog using issues and GitHub Actions (随意转载，无需署名)
 </details>
 
 ## 2022
+- [2022 失落的一年](https://github.com/yihong0618/gitblog/issues/255)--2022-12-19
 - [Random Thoughts](https://github.com/yihong0618/gitblog/issues/242)--2022-08-31
 - [反思](https://github.com/yihong0618/gitblog/issues/241)--2022-08-10
 - [二零二二的三个小目标](https://github.com/yihong0618/gitblog/issues/229)--2022-01-07
@@ -73,13 +200,21 @@ My personal blog using issues and GitHub Actions (随意转载，无需署名)
 </details>
 
 ## 一些记录
-- [如果判断一个数字帐号来自中国大陆](https://github.com/yihong0618/gitblog/issues/248)--2022-10-25
+- [能几日，又中秋](https://github.com/yihong0618/gitblog/issues/294)--2024-09-18
+- [跑了 10000km 花了 13 年](https://github.com/yihong0618/gitblog/issues/289)--2024-05-31
+- [三月](https://github.com/yihong0618/gitblog/issues/283)--2024-03-31
+- [旧文，移动端最好的游戏，《Dream Quest》以及其它](https://github.com/yihong0618/gitblog/issues/274)--2023-09-28
+- [杂感](https://github.com/yihong0618/gitblog/issues/262)--2023-05-01
+<details><summary>显示更多</summary>
+
+- [开源四年的一些记录](https://github.com/yihong0618/gitblog/issues/259)--2023-03-21
+- [不用 root 使用小爱同学和 ChatGPT 交互折腾记](https://github.com/yihong0618/gitblog/issues/258)--2023-02-16
+- [写诗吧](https://github.com/yihong0618/gitblog/issues/254)--2022-11-25
+- [如何判断一个数字帐号来自中国大陆](https://github.com/yihong0618/gitblog/issues/248)--2022-10-25
 - [运交华盖欲何求](https://github.com/yihong0618/gitblog/issues/231)--2022-03-03
 - [参加了《开源面对面》《ByteTalk》《枫言枫语》播客的一些记录](https://github.com/yihong0618/gitblog/issues/223)--2021-11-26
 - [张小龙的饭否](https://github.com/yihong0618/gitblog/issues/215)--2021-07-08
 - [推荐一些我一直关注的觉得不错的和 Python 相关的独立博客](https://github.com/yihong0618/gitblog/issues/195)--2020-11-20
-<details><summary>显示更多</summary>
-
 - [我转行程序员的经历](https://github.com/yihong0618/gitblog/issues/186)--2020-09-13
 - [做减法](https://github.com/yihong0618/gitblog/issues/148)--2020-04-16
 - [少说，多做，](https://github.com/yihong0618/gitblog/issues/112)--2020-02-13
@@ -92,13 +227,14 @@ My personal blog using issues and GitHub Actions (随意转载，无需署名)
 </details>
 
 ## 工作
+- [vm.overcommit_memory 学习笔记](https://github.com/yihong0618/gitblog/issues/261)--2023-04-12
 - [经历了人生体验最棒的一次面试](https://github.com/yihong0618/gitblog/issues/228)--2021-12-06
 - [沮丧](https://github.com/yihong0618/gitblog/issues/203)--2021-01-25
 - [心情不是很好的。](https://github.com/yihong0618/gitblog/issues/176)--2020-08-19
 - [最近在家，状态很不好。](https://github.com/yihong0618/gitblog/issues/165)--2020-06-09
-- [认真工作](https://github.com/yihong0618/gitblog/issues/161)--2020-05-29
 <details><summary>显示更多</summary>
 
+- [认真工作](https://github.com/yihong0618/gitblog/issues/161)--2020-05-29
 - [终于上班了，开心](https://github.com/yihong0618/gitblog/issues/153)--2020-05-06
 - [第一次团建](https://github.com/yihong0618/gitblog/issues/150)--2020-04-25
 - [复工第一天](https://github.com/yihong0618/gitblog/issues/128)--2020-03-04
@@ -129,13 +265,18 @@ My personal blog using issues and GitHub Actions (随意转载，无需署名)
 </details>
 
 ## 技术文章
+- [从给 RisingWave 提 PR 说起，聊聊怎么快速切入一个复杂的开源项目](https://github.com/yihong0618/gitblog/issues/296)--2024-10-11
+- [第一次 AI 尝试，完全用 AI(MarsCode) 做个需求](https://github.com/yihong0618/gitblog/issues/293)--2024-09-10
+- [用小爱加手指机器人实现传统开关语音关灯](https://github.com/yihong0618/gitblog/issues/281)--2024-01-29
+- [如何写一个 PostgreSQL Extension](https://github.com/yihong0618/gitblog/issues/270)--2023-07-08
+- [用 eBPF trace PostgreSQL 的几种姿势](https://github.com/yihong0618/gitblog/issues/257)--2023-01-28
+<details><summary>显示更多</summary>
+
 - [利用 GitHubPoster 和 GitHub Actions 备份任意用户推特](https://github.com/yihong0618/gitblog/issues/252)--2022-11-19
 - [LeetCode 是如何运行的--测试篇](https://github.com/yihong0618/gitblog/issues/237)--2022-07-01
 - [Postgres 中 GUC 的一些记录](https://github.com/yihong0618/gitblog/issues/233)--2022-04-21
 - [从 Rich 作者的一个问题说起](https://github.com/yihong0618/gitblog/issues/212)--2021-06-21
 - [如何用一个仓库记录自己的一年](https://github.com/yihong0618/gitblog/issues/209)--2021-05-28
-<details><summary>显示更多</summary>
-
 - [力扣的程序是如何运行的](https://github.com/yihong0618/gitblog/issues/205)--2021-02-01
 - [如何获取 keep 跑步数据](https://github.com/yihong0618/gitblog/issues/191)--2020-10-22
 - [决定把gitblog和kb结合起来](https://github.com/yihong0618/gitblog/issues/189)--2020-09-23
@@ -163,13 +304,20 @@ My personal blog using issues and GitHub Actions (随意转载，无需署名)
 </details>
 
 ## 日记
+- [断章](https://github.com/yihong0618/gitblog/issues/301)--2024-12-01
+- [这两个月](https://github.com/yihong0618/gitblog/issues/299)--2024-11-05
+- [一件趣事儿](https://github.com/yihong0618/gitblog/issues/292)--2024-09-02
+- [六月](https://github.com/yihong0618/gitblog/issues/290)--2024-06-30
+- [抉择](https://github.com/yihong0618/gitblog/issues/287)--2024-04-17
+<details><summary>显示更多</summary>
+
+- [记忆碎片](https://github.com/yihong0618/gitblog/issues/280)--2023-12-24
+- [五月病](https://github.com/yihong0618/gitblog/issues/268)--2023-06-02
 - [一杯敬月光](https://github.com/yihong0618/gitblog/issues/251)--2022-11-18
 - [有趣与无趣](https://github.com/yihong0618/gitblog/issues/221)--2021-10-13
 - [一点思考](https://github.com/yihong0618/gitblog/issues/218)--2021-08-19
 - [朋友圈](https://github.com/yihong0618/gitblog/issues/216)--2021-08-03
 - [新年碎碎念](https://github.com/yihong0618/gitblog/issues/201)--2021-01-08
-<details><summary>显示更多</summary>
-
 - [生的对立面](https://github.com/yihong0618/gitblog/issues/196)--2020-12-10
 - [感冒了，真是难受](https://github.com/yihong0618/gitblog/issues/188)--2020-09-21
 - [要怎样才能过好一生？](https://github.com/yihong0618/gitblog/issues/166)--2020-06-14
@@ -211,12 +359,18 @@ My personal blog using issues and GitHub Actions (随意转载，无需署名)
 </details>
 
 ## 精进计划
+- [这玩意不是就__](https://github.com/yihong0618/gitblog/issues/291)--2024-07-26
 - [修炼内功，最近在刷《SICP》](https://github.com/yihong0618/gitblog/issues/163)--2020-06-04
 - [人和人之家的差距太大了](https://github.com/yihong0618/gitblog/issues/147)--2020-04-13
 - [我不服输](https://github.com/yihong0618/gitblog/issues/79)--2019-11-16
 - [一定要摆脱撞大运编程](https://github.com/yihong0618/gitblog/issues/78)--2019-11-15
+<details><summary>显示更多</summary>
+
 - [又要开始了](https://github.com/yihong0618/gitblog/issues/76)--2019-11-11
+</details>
+
 ## 读书笔记
+- [聊聊读书](https://github.com/yihong0618/gitblog/issues/275)--2023-10-18
 - [《Vim实用技巧》读书笔记](https://github.com/yihong0618/gitblog/issues/74)--2019-11-05
 - [计算机组成要素读书笔记](https://github.com/yihong0618/gitblog/issues/52)--2019-10-04
 - [《快乐的Linux命令行》读书笔记](https://github.com/yihong0618/gitblog/issues/23)--2019-08-12
@@ -264,24 +418,29 @@ My personal blog using issues and GitHub Actions (随意转载，无需署名)
 - [今年的三个小目标](https://github.com/yihong0618/gitblog/issues/202)--2021-01-14
 - [二零二一开始](https://github.com/yihong0618/gitblog/issues/200)--2021-01-04
 ## 开发笔记
+- [最近给开源项目贡献的记录](https://github.com/yihong0618/gitblog/issues/304)--2025-01-27
 - [running_page 开源一周年的总结](https://github.com/yihong0618/gitblog/issues/220)--2021-09-27
 - [巧妙利用 iOS 的快捷指令配合 GitHub Actions 实现自动化](https://github.com/yihong0618/gitblog/issues/198)--2020-12-23
 - [如何获取悦跑圈数据](https://github.com/yihong0618/gitblog/issues/197)--2020-12-18
 - [vscode-gcores开发笔记3](https://github.com/yihong0618/gitblog/issues/115)--2020-02-18
-- [vscode-gcores 开发笔记 2](https://github.com/yihong0618/gitblog/issues/111)--2020-02-11
 <details><summary>显示更多</summary>
 
+- [vscode-gcores 开发笔记 2](https://github.com/yihong0618/gitblog/issues/111)--2020-02-11
 - [vscode-gcores开发笔记1](https://github.com/yihong0618/gitblog/issues/102)--2020-01-19
 </details>
 
 ## 生活
+- [2020-2024 最喜欢的 10 篇文章和一张图](https://github.com/yihong0618/gitblog/issues/302)--2024-12-24
+- [六月](https://github.com/yihong0618/gitblog/issues/290)--2024-06-30
+- [开源值得么？](https://github.com/yihong0618/gitblog/issues/279)--2023-11-23
+- [微信好友](https://github.com/yihong0618/gitblog/issues/272)--2023-08-23
 - [今天的跑步电台](https://github.com/yihong0618/gitblog/issues/239)--2022-07-18
+<details><summary>显示更多</summary>
+
 - [新冠纪元](https://github.com/yihong0618/gitblog/issues/235)--2022-04-26
 - [年终岁尾](https://github.com/yihong0618/gitblog/issues/230)--2022-01-28
 - [一件小事](https://github.com/yihong0618/gitblog/issues/214)--2021-07-05
 - [逃离](https://github.com/yihong0618/gitblog/issues/208)--2021-05-12
-<details><summary>显示更多</summary>
-
 - [近况](https://github.com/yihong0618/gitblog/issues/207)--2021-03-25
 - [年过完了](https://github.com/yihong0618/gitblog/issues/206)--2021-02-22
 - [记住这一刻](https://github.com/yihong0618/gitblog/issues/199)--2020-12-29
@@ -303,8 +462,9 @@ My personal blog using issues and GitHub Actions (随意转载，无需署名)
 </details>
 
 ## TODO
-TODO list from [Postgres 需要学的东西](https://github.com/yihong0618/gitblog/issues/234)--18 jobs to do--1 jobs done
+TODO list from [Postgres 需要学的东西](https://github.com/yihong0618/gitblog/issues/234)--17 jobs to do--2 jobs done
 - [x] GUC
+- [x] Btree & B+Tree
 - [ ] WAL
 - [ ] Locks
 - [ ] Shared memory
@@ -319,7 +479,6 @@ TODO list from [Postgres 需要学的东西](https://github.com/yihong0618/gitbl
 - [ ] MVCC
 - [ ] BufferPool
 - [ ] 分布式
-- [ ] Btree & B+Tree
 - [ ] Hash
 - [ ] MmeoryContext
 - [ ] SPI
@@ -333,22 +492,4 @@ TODO list from [接下来要写的东西](https://github.com/yihong0618/gitblog/
 - [ ] django shell 的运行原理
 - [ ] 推荐两个 YouTube 程序员
 - [ ] 游戏行业科普
-
-TODO list from [学习生活上的计划](https://github.com/yihong0618/gitblog/issues/181)--3 jobs to do--1 jobs done
-- [x] 背标日初级下的单词
-- [ ] 月跑量突破250 km
-- [ ] 瘦到130斤
-- [ ] 年底考个日语 3 级
-
-TODO list from [程序上新的计划](https://github.com/yihong0618/gitblog/issues/180)--2 jobs to do--8 jobs done
-- [x] 完善 gitblog 的 action 让用户更少更改
-- [x] 给 gitblog 这个增加todo list 功能(这个就是测试）
-- [x] 给 running page 增加排序
-- [x] 完善 runtastic 增加一个参数
-- [x] 尝试搞定 vscode-leetcode 的cn第三方登陆
-- [x] 研究自动截图发邮件功能（工作上）
-- [x] 把 running page 变得更通用(自动生成的js可以用gpx生成)
-- [x] 搞定 gcores 日历
-- [ ] 继续给大连咖啡做贡献
-- [ ] 学点底层
 
